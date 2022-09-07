@@ -177,7 +177,7 @@ a {
 }
 
 a:hover {
-    color: #f51330;
+    color: #A3C14A;
     text-decoration: none;
 }
 
@@ -2068,12 +2068,12 @@ pre code {
 }
 
 .table-hover .table-warning:hover {
-    background-color: #ffc6c3;
+    background-color: #A3C14A;
 }
 
 .table-hover .table-warning:hover>td,
 .table-hover .table-warning:hover>th {
-    background-color: #ffc6c3;
+    background-color: #A3C14A;
 }
 
 .table-danger,
@@ -3503,7 +3503,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-link:hover {
-    color: #f51330;
+    color: #A3C14A;
     text-decoration: none;
 }
 
@@ -5608,7 +5608,7 @@ input[type="button"].btn-block {
 
 .page-link:hover {
     z-index: 2;
-    color: #f51330;
+    color: #A3C14A;
     text-decoration: none;
     background-color: rgba(248, 92, 112, 0.3);
     border-color: transparent;
@@ -5965,7 +5965,7 @@ a.badge-dark.focus {
 }
 
 .alert-warning hr {
-    border-top-color: #ffc6c3;
+    border-top-color: #A3C14A;
 }
 
 .alert-warning .alert-link {
@@ -6397,7 +6397,7 @@ a.badge-dark.focus {
 .list-group-item-warning.list-group-item-action:hover,
 .list-group-item-warning.list-group-item-action:focus {
     color: #854744;
-    background-color: #ffc6c3;
+    background-color: #A3C14A;
 }
 
 .list-group-item-warning.list-group-item-action.active {
@@ -11072,7 +11072,7 @@ button.bg-dark:focus {
 
 a.text-primary:hover,
 a.text-primary:focus {
-    color: #f51330 !important;
+    color: #A3C14A !important;
 }
 
 .text-secondary {
@@ -11117,7 +11117,7 @@ a.text-warning:focus {
 
 a.text-danger:hover,
 a.text-danger:focus {
-    color: #f51330 !important;
+    color: #A3C14A !important;
 }
 
 .text-light {
